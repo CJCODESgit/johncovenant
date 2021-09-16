@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @johncovenant
+- 👀 I’m interested in WEB/MOBILE app development
+- 🌱 I’m currently learning C# and ASP.NET
+- 💞️ I’m looking to collaborate on Projects 
+- 📫 How to reach me on Twitter https://twitter.com/CJCODES_
